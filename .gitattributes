@@ -1,0 +1,4 @@
+client/*.css linguist-vendored=true
+client/*.styl linguist-vendored=true
+client/*.html linguist-vendored=true
+client/**/*.html linguist-vendored=true
